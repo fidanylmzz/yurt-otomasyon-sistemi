@@ -1,0 +1,1 @@
+# yurt-otomasyon-sistemi
